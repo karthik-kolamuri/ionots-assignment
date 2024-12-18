@@ -1,0 +1,2 @@
+Hello this is karthik Kolamuri. Currently pursuing B.Tech in SASI Institute of Technology and Engineering with the stream of CSE.
+I am very passionate on the Web Development Technologies and Networking.I have learned MERN and done some projects using MERN (actually not on this github account)
